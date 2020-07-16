@@ -1,6 +1,5 @@
 # Terminal Calculator
-Your task is to implement a basic terminal calculator. You must read in two numbers and perform according to the user's input different calculations.
-It should be possible to choose between floating point and integer calculations.
+Your task is to implement a basic terminal calculator. You must read in two numbers and perform according to the user's input different calculations. It should be possible to choose between floating-point and integer calculations.
 
 Your calculator should have at least the following operations:
 
@@ -10,7 +9,7 @@ Your calculator should have at least the following operations:
 4.   modulo
 5.   pythagoras (calculate the hypotenuse c). You can take a look [here](https://de.wikipedia.org/wiki/Satz_des_Pythagoras).
 
-Of course you can add more :smile:
+Of course, you can add more :smile:
 
 >**NOTE:** Please pay attention to a clean style &#x2192; do not repeat yourself.
 >
