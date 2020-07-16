@@ -12,9 +12,9 @@ Your calculator should have at least the following operations:
 
 Of course you can add more :smile:
 
-> **NOTE:** Please pay attention to a clean style &#x2192; do not repeat yourself.
+>**NOTE:** Please pay attention to a clean style &#x2192; do not repeat yourself.
 >
-> **Use the provided code skeleton**
+>**Use the provided code skeleton**
 
 Take a look at this example output of the program:
 
