@@ -93,3 +93,7 @@ Press y for yes or any other key for abort.
 
 Thank you for using the calculator. See you soon!
 ~~~
+
+
+> **Use the provided code skeleton**
+
