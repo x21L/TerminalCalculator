@@ -12,7 +12,8 @@ Your calculator should have at least the following operations:
 
 Of course you can add more :smile:
 
->**NOTE:** Please pay attention to a clean style. Do not repeat yourself &#x2192; do not repeat yourself.
+>**NOTE:** Please pay attention to a clean style &#x2192; do not repeat yourself.
+> **Use the provided code skeleton**
 
 Take a look at this example output of the program:
 
@@ -93,7 +94,4 @@ Press y for yes or any other key for abort.
 
 Thank you for using the calculator. See you soon!
 ~~~
-
-
-> **Use the provided code skeleton**
 
