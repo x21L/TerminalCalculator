@@ -95,3 +95,48 @@ Press y for yes or any other key for abort.
 Thank you for using the calculator. See you soon!
 ~~~
 
+# Helpful Ressources
+
+## Switch Expression
+
+~~~java
+int x = 6;
+
+switch (x) {
+case 1:
+  System.out.println("case1");
+  break;
+case 2:
+  System.out.println("case2");
+  break;
+case 6:
+  System.out.println("case6");
+  break;
+default:
+  System.out.println("I am the default");
+}
+
+~~~
+
+## Text Blocks
+You must configure it under ```Project Structure/Project Language Level``` and also under ```Project Structure/Modules```. 
+
+Set the Language Level to **14 (Preview) Records, patterns, text blocks**.
+
+~~~java
+String block = """
+               This is a nice text block.
+               1.  It can even handle tabs.
+               2.  This is the second tab.
+               """;
+~~~
+
+## Convert Strings to Numbers
+
+~~~java
+int x = Integer.parseInt("3");
+
+double y = Double.parseDouble("4");
+
+float f = Float.parseFloat("5");
+~~~
