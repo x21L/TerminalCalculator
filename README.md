@@ -118,11 +118,6 @@ default:
 
 ~~~
 
-## Text Blocks
-You must configure it under ```Project Structure/Project Language Level``` and also under ```Project Structure/Modules```. 
-
-Set the Language Level to **14 (Preview) Records, patterns, text blocks**.
-
 ~~~java
 String block = """
                This is a nice text block.
