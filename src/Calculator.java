@@ -3,6 +3,9 @@ public class Calculator {
     // global variables
     private static final Scanner scanner = new Scanner(System.in);
 
+    /*
+        your code comes here
+     */
 
     public static void main(String[] args) {
         /*
